@@ -1,0 +1,291 @@
+<!-- wp:group {"metadata":{"name":"Intro","patternCategory":"about","patternSubcategory":"","remotePatternId":13361},"align":"full","className":"alignfull is-style-section-2","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull is-style-section-2" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0;margin-bottom:0"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":20,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none","className":""} -->
+<figure class="wp-block-image size-full"><img src="https://guevaraedisson777-kjpuv.wordpress.com/wp-content/uploads/2026/03/stress-solutions-spa-69cb358d5349a.png" alt="An inviting spa waiting area featuring a low, sculptural oak coffee table with a subtle matte finish, topped with a single white orchid in a frosted glass vase and a curated stack of linen-bound wellness books. Behind it, a sleek built-in bench upholstered in sand-colored boucle curves along a wall clad in light travertine panels. Floor-to-ceiling windows with sheer ivory curtains diffuse late-afternoon natural light, creating soft highlights on the stone and gentle shadows on the floor. In the background, a minimalist reception counter in white quartz glows with hidden underlighting. Photographic realism, shot from a slightly elevated angle using the rule of thirds, with a calm, understated luxury atmosphere and a muted, neutral color palette that feels refined and welcoming." class="wp-image-20" style="aspect-ratio:3/4;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"align":"wide","className":"alignwide","style":{"typography":{"fontWeight":"500"}}} -->
+<h2 class="wp-block-heading alignwide" style="font-weight:500">A calm, modern spa for deep exhale days</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.7"}}} -->
+<p style="line-height:1.7">Stress Solutions Spa blends warm neutrals, quiet lighting, and intuitive treatments to help your nervous system soften. From tailored facials to full-body rituals, every visit is designed to feel grounding, unhurried, and deeply restorative.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Our story</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Services","patternCategory":"services","patternSubcategory":"","remotePatternId":13592},"align":"full","className":"is-style-section-3","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|30"}},"backgroundColor":"theme-5","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull is-style-section-3 has-theme-5-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"align":"wide","className":"alignwide has-text-align-left"} -->
+<h2 class="wp-block-heading alignwide has-text-align-left">Treatments</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"metadata":{"name":"Sections"},"align":"wide","style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"metadata":{"name":"Section"},"align":"wide","style":{"spacing":{"blockGap":{"top":"0","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"metadata":{"name":"Item"},"style":{"spacing":{"padding":{"top":"24px","bottom":"24px"}}}} -->
+<div class="wp-block-column" style="padding-top:24px;padding-bottom:24px"><!-- wp:heading {"level":3,"align":"wide","className":"alignwide has-text-align-left is-service-name"} -->
+<h3 class="wp-block-heading alignwide has-text-align-left is-service-name">Facials</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"align":"wide","style":{"border":{"bottom":{"width":"1px"}},"spacing":{"padding":{"top":"40px","bottom":"40px"}}}} -->
+<div class="wp-block-group alignwide" style="border-bottom-width:1px;padding-top:40px;padding-bottom:40px"><!-- wp:paragraph {"className":"is-service-description","style":{"typography":{"lineHeight":"1.7"}}} -->
+<p class="is-service-description" style="line-height:1.7">Experience customized facials that nourish, brighten, and restore balance. Each treatment is tailored to your skin’s needs using gentle, high-performance products and calming massage techniques.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"metadata":{"name":"Section"},"align":"wide","style":{"spacing":{"blockGap":{"top":"0","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"metadata":{"name":"Item"},"style":{"spacing":{"padding":{"top":"24px","bottom":"24px"}}}} -->
+<div class="wp-block-column" style="padding-top:24px;padding-bottom:24px"><!-- wp:heading {"level":3,"align":"wide","className":"alignwide has-text-align-left is-service-name"} -->
+<h3 class="wp-block-heading alignwide has-text-align-left is-service-name">Body</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"align":"wide","style":{"border":{"bottom":{"width":"1px"}},"spacing":{"padding":{"top":"40px","bottom":"40px"}}}} -->
+<div class="wp-block-group alignwide" style="border-bottom-width:1px;padding-top:40px;padding-bottom:40px"><!-- wp:paragraph {"className":"is-service-description","style":{"typography":{"lineHeight":"1.7"}}} -->
+<p class="is-service-description" style="line-height:1.7">Sink into slow, intentional bodywork that releases stored tension. From Swedish and deep tissue to hot stone enhancements, our massages are designed to calm your mind as much as your muscles.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"metadata":{"name":"Section"},"align":"wide","style":{"spacing":{"blockGap":{"top":"0","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"metadata":{"name":"Item"},"style":{"spacing":{"padding":{"top":"24px","bottom":"24px"}}}} -->
+<div class="wp-block-column" style="padding-top:24px;padding-bottom:24px"><!-- wp:heading {"level":3,"align":"wide","className":"alignwide has-text-align-left is-service-name"} -->
+<h3 class="wp-block-heading alignwide has-text-align-left is-service-name">Waxing</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"align":"wide","style":{"border":{"bottom":{"width":"1px"}},"spacing":{"padding":{"top":"40px","bottom":"40px"}}}} -->
+<div class="wp-block-group alignwide" style="border-bottom-width:1px;padding-top:40px;padding-bottom:40px"><!-- wp:paragraph {"className":"is-service-description","style":{"typography":{"lineHeight":"1.7"}}} -->
+<p class="is-service-description" style="line-height:1.7">Smooth, polished skin with gentle waxing in a serene, spa-level setting. We focus on comfort, precision, and soothing aftercare so you leave feeling confident and cared for.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40"}}},"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--40)"><!-- wp:button {"backgroundColor":"black","textColor":"theme-1","style":{"spacing":{"padding":{"top":"0.75rem","right":"1.75rem","bottom":"0.75rem","left":"1.75rem"}},"border":{"radius":"999px"}},"fontFamily":"inter"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-theme-1-color has-black-background-color has-text-color has-background has-inter-font-family wp-element-button" href="/services/" style="border-radius:999px;padding-top:0.75rem;padding-right:1.75rem;padding-bottom:0.75rem;padding-left:1.75rem">View All Services</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Gallery","patternCategory":"gallery","patternSubcategory":"","remotePatternId":13530},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|40"}},"backgroundColor":"theme-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull has-theme-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":27,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"","style":{"layout":{"rowSpan":2,"columnSpan":2}}} -->
+<figure class="wp-block-image size-full"><img src="https://guevaraedisson777-kjpuv.wordpress.com/wp-content/uploads/2026/03/stress-solutions-spa-69cb358f8d393.png" alt="A tranquil aromatherapy corner showcasing a sculptural, matte white ceramic essential oil diffuser emitting a gentle plume of mist that curls upward into softly lit space. The diffuser sits on a slim, floating oak shelf mounted against a smooth, warm-gray plaster wall. Beside it, a small arrangement of uniform amber glass vials with simple white labels is aligned on a narrow brass tray, catching subtle reflections from a nearby recessed spotlight. The primary lighting comes from a single, dimmable wall sconce above, creating a pool of warm light that fades into shadow at the edges of the frame. Photographic realism, shot close-up at eye level with a shallow depth of field, the composition minimal and refined, evoking quiet, sensory-focused stress relief and sophisticated wellness rituals." class="wp-image-27" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained","justifyContent":"left","contentSize":"640px"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Soft candlelight, plush treatment beds, and warm neutral tones invite you to slow down, breathe deeply, and immerse yourself in the tranquil heart of Stress Solutions Spa.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":24,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"","style":{"layout":{"columnSpan":1,"rowSpan":1}}} -->
+<figure class="wp-block-image size-full"><img src="https://guevaraedisson777-kjpuv.wordpress.com/wp-content/uploads/2026/03/stress-solutions-spa-69cb358e32e57.png" alt="A calming spa refreshment station featuring a tall, crystal-clear glass beverage dispenser filled with chilled cucumber and mint water, the thin green slices and bright leaves suspended in the water catching the light. The dispenser rests on a pale stone counter with subtle veining, beside a precise row of small, stemless glasses turned upright on a sand-colored linen runner. In the background, a blurred niche wall holds a single white ceramic bowl filled with green apples. Soft morning light filters in from an unseen window to the left, creating gentle specular highlights on the glass and subtle shadows on the counter. Photographic realism, composed with the dispenser on a rule-of-thirds intersection, conveying understated luxury hospitality and a sense of refreshing, health-focused pampering." class="wp-image-24" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained","justifyContent":"left","contentSize":"640px"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Sunlit reception spaces, handcrafted decor, and calming greenery create a peaceful welcome before you transition to our private rooms for customized massages, facials, and body rituals.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["services"],"name":"Reviews","patternName":"assembler/services-5","patternCategory":"testimonials","patternSubcategory":"","remotePatternId":15027},"align":"full","className":"alignfull is-style-default","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|40"}},"backgroundColor":"theme-2","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull is-style-default has-theme-2-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"align":"full","className":"has-text-align-left alignfull","style":{"typography":{"textAlign":"left","fontWeight":"500"}}} -->
+<h2 class="wp-block-heading has-text-align-left alignfull" style="font-weight:500">Testimonials</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Sections"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"metadata":{"name":"Section"}} -->
+<div class="wp-block-group"><!-- wp:columns {"metadata":{"name":"Items"},"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"metadata":{"name":"Item"},"style":{"spacing":{"blockGap":"0.63rem"}}} -->
+<div class="wp-block-column"><!-- wp:jetpack/rating-star {"rating":4.5,"className":"is-style-filled"} -->
+<figure class="wp-block-jetpack-rating-star is-style-filled" style="text-align:left"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></figure>
+<!-- /wp:jetpack/rating-star -->
+
+<!-- wp:paragraph {"metadata":{"name":"Review"},"className":"is-testimonial-review","style":{"typography":{"lineHeight":"1.7"}}} -->
+<p class="is-testimonial-review" style="line-height:1.7">My shoulders dropped the moment I walked in. The massage was slow, intuitive, and incredibly grounding—like my whole week reset in an hour.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"Name"},"className":"is-testimonial-name"} -->
+<p class="is-testimonial-name">— Emily</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"metadata":{"name":"Item"},"style":{"spacing":{"blockGap":"0.63rem"}}} -->
+<div class="wp-block-column"><!-- wp:jetpack/rating-star {"rating":4.5,"className":"is-style-filled"} -->
+<figure class="wp-block-jetpack-rating-star is-style-filled" style="text-align:left"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></figure>
+<!-- /wp:jetpack/rating-star -->
+
+<!-- wp:paragraph {"className":"is-testimonial-review","style":{"typography":{"lineHeight":"1.7"}}} -->
+<p class="is-testimonial-review" style="line-height:1.7">The space is beautiful and serene, and my facial left my skin glowing for days. I felt truly cared for from start to finish.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"Name"},"className":"is-testimonial-name"} -->
+<p class="is-testimonial-name">— Daniel</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"metadata":{"name":"Item"},"style":{"spacing":{"blockGap":"0.63rem"}}} -->
+<div class="wp-block-column"><!-- wp:jetpack/rating-star {"rating":4.5,"className":"is-style-filled"} -->
+<figure class="wp-block-jetpack-rating-star is-style-filled" style="text-align:left"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></figure>
+<!-- /wp:jetpack/rating-star -->
+
+<!-- wp:paragraph {"className":"is-testimonial-review"} -->
+<p class="is-testimonial-review">From the moment I walked in, the spa felt serene, spotless, and welcoming; my massage melted days of tension in a single visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"Name"},"className":"is-testimonial-name"} -->
+<p class="is-testimonial-name">— Priya</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Contact","patternCategory":"forms","patternSubcategory":"forms/contact","remotePatternId":13486},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|30"}}},"backgroundColor":"theme-5","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull has-theme-5-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":""} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontWeight":"500"}}} -->
+<h2 class="wp-block-heading" style="font-weight:500">Reserve your time to unwind</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-contact-description","style":{"typography":{"lineHeight":"1.7"}}} -->
+<p class="is-contact-description" style="line-height:1.7">Share a few details and we’ll follow up to confirm the perfect time for your visit. For same-day or urgent bookings, please call the spa directly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.7"}}} -->
+<p style="line-height:1.7">Prefer to book instantly? Use our online booking portal to secure your massage, facial, or spa package in just a few clicks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/contact-form {"subject":"New form submission from Stress Solutions Spa","to":"","jetpackCRM":true,"salesforceData":{"organizationId":"","sendToSalesforce":false},"mailpoet":{"listId":null,"listName":null,"enabledForForm":false},"textColor":"primary","className":"is-style-default","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} -->
+<div class="wp-block-jetpack-contact-form is-style-default has-primary-color has-text-color has-link-color"><!-- wp:jetpack/field-name {"id":"","required":true,"fieldVariant":"name"} -->
+<div><!-- wp:jetpack/label {"label":"Name","requiredText":"(required)"} /-->
+
+<!-- wp:jetpack/input {"style":{"border":{"radius":"5px","style":"solid","width":"1px"}}} /--></div>
+<!-- /wp:jetpack/field-name -->
+
+<!-- wp:jetpack/field-email {"id":"","required":true} -->
+<div><!-- wp:jetpack/label {"label":"Email","requiredText":"(required)"} /-->
+
+<!-- wp:jetpack/input {"style":{"border":{"radius":"5px","style":"solid","width":"1px"}}} /--></div>
+<!-- /wp:jetpack/field-email -->
+
+<!-- wp:jetpack/field-textarea {"id":""} -->
+<div><!-- wp:jetpack/label {"label":"Message","requiredText":"(required)"} /-->
+
+<!-- wp:jetpack/input {"type":"textarea","style":{"border":{"radius":"5px","style":"solid","width":"1px"}}} /--></div>
+<!-- /wp:jetpack/field-textarea -->
+
+<!-- wp:jetpack/button {"element":"button","text":"Submit","width":"","lock":{"remove":true}} /--></div>
+<!-- /wp:jetpack/contact-form --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"id":19,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none","className":""} -->
+<figure class="wp-block-image size-full"><img src="https://guevaraedisson777-kjpuv.wordpress.com/wp-content/uploads/2026/03/stress-solutions-spa-69cb358d19142.png" alt="An inviting spa waiting area featuring a low, sculptural oak coffee table with a subtle matte finish, topped with a single white orchid in a frosted glass vase and a curated stack of linen-bound wellness books. Behind it, a sleek built-in bench upholstered in sand-colored boucle curves along a wall clad in light travertine panels. Floor-to-ceiling windows with sheer ivory curtains diffuse late-afternoon natural light, creating soft highlights on the stone and gentle shadows on the floor. In the background, a minimalist reception counter in white quartz glows with hidden underlighting. Photographic realism, shot from a slightly elevated angle using the rule of thirds, with a calm, understated luxury atmosphere and a muted, neutral color palette that feels refined and welcoming." class="wp-image-19" style="aspect-ratio:3/4;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30"}}},"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--30)"><!-- wp:button {"backgroundColor":"black","textColor":"theme-1","style":{"spacing":{"padding":{"top":"0.75rem","right":"1.75rem","bottom":"0.75rem","left":"1.75rem"}},"border":{"radius":"999px"}},"fontFamily":"inter"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-theme-1-color has-black-background-color has-text-color has-background has-inter-font-family wp-element-button" href="/book-now/" style="border-radius:999px;padding-top:0.75rem;padding-right:1.75rem;padding-bottom:0.75rem;padding-left:1.75rem">Book Online</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-outline","style":{"spacing":{"padding":{"top":"0.75rem","right":"1.75rem","bottom":"0.75rem","left":"1.75rem"}},"border":{"radius":"999px"}},"fontFamily":"inter","borderColor":"black"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-border-color has-black-border-color has-inter-font-family wp-element-button" href="tel:19085552740" style="border-radius:999px;padding-top:0.75rem;padding-right:1.75rem;padding-bottom:0.75rem;padding-left:1.75rem">Call the Spa</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Contact","patternCategory":"contact","patternSubcategory":"","remotePatternId":13492},"align":"full","className":"is-style-section-2","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"bottom":"var:preset|spacing|40","top":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|30"}},"backgroundColor":"theme-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull is-style-section-2 has-theme-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained","contentSize":"400px","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontWeight":"500"}}} -->
+<h2 class="wp-block-heading" style="font-weight:500">Visit Stress Solutions Spa</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-contact-description","style":{"typography":{"lineHeight":"1.7"}}} -->
+<p class="is-contact-description" style="line-height:1.7">A quiet, second-floor retreat designed for calm, comfort, and deeply restorative treatments.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10"} -->
+<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:jetpack/map {"points":[{"placeTitle":"916 Somerset St, FL 2, Watchung, NJ  07069, United States","title":"916 Somerset St, FL 2, Watchung, NJ  07069, United States","caption":"916 Somerset St, FL 2, Watchung, NJ  07069, United States","coordinates":{"longitude":-74.4474879,"latitude":40.6358292},"id":"916 Somerset St, FL 2, Watchung, NJ  07069, United States 40.64 -74.45"}],"address":"916 Somerset St 2nd flr, Watchung, NJ 07069","zoom":15,"mapCenter":{"lat":40.635792743528995,"lng":-74.44748789999998},"markerColor":"#151515","mapHeight":500,"className":"is-style-satellite"} -->
+<div class="wp-block-jetpack-map is-style-satellite" data-map-style="satellite" data-map-details="true" data-points="[{&quot;placeTitle&quot;:&quot;916 Somerset St, FL 2, Watchung, NJ  07069, United States&quot;,&quot;title&quot;:&quot;916 Somerset St, FL 2, Watchung, NJ  07069, United States&quot;,&quot;caption&quot;:&quot;916 Somerset St, FL 2, Watchung, NJ  07069, United States&quot;,&quot;coordinates&quot;:{&quot;longitude&quot;:-74.4474879,&quot;latitude&quot;:40.6358292},&quot;id&quot;:&quot;916 Somerset St, FL 2, Watchung, NJ  07069, United States 40.64 -74.45&quot;}]" data-zoom="15" data-map-center="{&quot;lat&quot;:40.635792743528995,&quot;lng&quot;:-74.44748789999998}" data-marker-color="#151515" data-map-height="500" data-show-fullscreen-button="true"><ul><li><a href="https://www.google.com/maps/search/?api=1&amp;query=40.6358292,-74.4474879">916 Somerset St, FL 2, Watchung, NJ  07069, United States</a></li></ul></div>
+<!-- /wp:jetpack/map -->
+
+<!-- wp:spacer {"height":"calc( 0.25 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))"} -->
+<div style="height:calc( 0.25 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)))" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"is-contact-address-phone","style":{"typography":{"textAlign":"left"}}} -->
+<p class="has-text-align-left is-contact-address-phone">916 Somerset St, 2nd Floor · Watchung, NJ 07069 · (908) 555-2740</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"size":"has-normal-icon-size","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"top":"16px","left":"16px"},"margin":{"top":"var:preset|spacing|30"}}}} -->
+<ul class="wp-block-social-links has-normal-icon-size is-style-logos-only" style="margin-top:var(--wp--preset--spacing--30)"><!-- wp:social-link {"url":"https://facebook.com/","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"https://instagram.com","service":"instagram"} /--></ul>
+<!-- /wp:social-links -->
+
+<!-- wp:spacer {"height":"calc( 0.25 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))"} -->
+<div style="height:calc( 0.25 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)))" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"is-contact-opening-hours","style":{"typography":{"textAlign":"left"}}} -->
+<p class="has-text-align-left is-contact-opening-hours">Tue–Sun · 10am–7pm</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40"}}},"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--40)"><!-- wp:button {"backgroundColor":"black","textColor":"theme-1","style":{"spacing":{"padding":{"top":"0.75rem","right":"1.75rem","bottom":"0.75rem","left":"1.75rem"}},"border":{"radius":"999px"}},"fontFamily":"inter"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-theme-1-color has-black-background-color has-text-color has-background has-inter-font-family wp-element-button" href="/book-now/" style="border-radius:999px;padding-top:0.75rem;padding-right:1.75rem;padding-bottom:0.75rem;padding-left:1.75rem">Book Your Escape</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
